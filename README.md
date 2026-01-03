@@ -59,7 +59,7 @@ The GLM-4.7 MCP Server is a [Model Context Protocol](https://modelcontextprotoco
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/glm-mcp-server.git
+git clone https://github.com/robertcprice/glm-mcp-server.git
 cd glm-mcp-server
 
 # Create virtual environment
@@ -268,7 +268,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/glm-mcp-server/issues)
+- **Issues**: [GitHub Issues](https://github.com/robertcprice/glm-mcp-server/issues)
 - **Z.ai Docs**: [docs.z.ai](https://docs.z.ai)
 - **MCP Docs**: [modelcontextprotocol.io](https://modelcontextprotocol.io)
 

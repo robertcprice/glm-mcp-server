@@ -28,10 +28,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/glm-mcp-server"
-Repository = "https://github.com/yourusername/glm-mcp-server"
-Issues = "https://github.com/yourusername/glm-mcp-server/issues"
-Documentation = "https://github.com/yourusername/glm-mcp-server/blob/main/README.md"
+Homepage = "https://github.com/robertcprice/glm-mcp-server"
+Repository = "https://github.com/robertcprice/glm-mcp-server"
+Issues = "https://github.com/robertcprice/glm-mcp-server/issues"
+Documentation = "https://github.com/robertcprice/glm-mcp-server/blob/main/README.md"
 
 [build-system]
 requires = ["hatchling"]
